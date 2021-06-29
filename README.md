@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VanderleiM
+- 👋 Olá, Me chamo @VanderleiM
 - 👀 Estou interessado em uma vaga de estágio 
-- 🌱 I’m currently  cursando Sistemas de InformaçÃO
-- 💞️ I’m looking to collaborate  com o meu crescimento e com o crescimento da empresa
+- 🌱 Estou cursando Sistemas de InformaçÃO
+- 💞️ Desejo colaborar com o meu crescimento e com o crescimento da empresa
 - 📫 Para me encontrar basta chamar no Whatsapp 61984838863
 
 <!---
